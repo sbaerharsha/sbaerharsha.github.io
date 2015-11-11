@@ -7,6 +7,12 @@ h1 {
 	text-align: center;
 }
 
-img {
+#slogan {
 	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
 }
