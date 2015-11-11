@@ -12,7 +12,9 @@ h1 {
 	font-weight: bold;
 	font-style: italic;
 }
+
 img.center {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
