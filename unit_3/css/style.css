@@ -1,13 +1,12 @@
 body {
 	background-color: #FF3160;
-	text-align: center;
 }
 
 h1 {
 	color: White;
+	text-align: center;
 }
 
-#slogan {
-	font-style: italic;
-	font-weight: bold;
+img {
+	text-align: center;
 }
