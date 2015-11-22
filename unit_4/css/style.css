@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body {
+  background-color: #FF3160;
+}
+
+h1 {
+  color: White;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bold;
+}
+
+#slogan {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+font-family: 'Roboto Slab', serif;
+font-size: 14px;
+}
+
+ul {
+font-family: 'Roboto Slab', serif;
+font-size: 14px;
+}
