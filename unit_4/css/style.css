@@ -25,11 +25,14 @@ img.center {
 }
 
 p {
-font-family: 'Roboto Slab', serif;
-font-size: 14px;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  font-size: 14px;
 }
 
 ul {
-font-family: 'Roboto Slab', serif;
-font-size: 14px;
+  text-align: center;
+  list-style-type: none;
+  font-size: 14px;
+  font-family: 'Roboto Slab', serif;
 }
