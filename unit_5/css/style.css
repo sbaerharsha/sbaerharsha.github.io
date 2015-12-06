@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
 
-body {
-  background-color: #FF3160;
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 h1 {
@@ -30,9 +33,49 @@ p {
   font-size: 14px;
 }
 
+.navbar {
+background=grey;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.form {
+  background: blue;
+  width: 100px;
+  color: white;
+  text-align: center;
+}
+
 ul {
   text-align: center;
   list-style-type: none;
-  font-size: 14px;
-  
+  font-size: 14px;  
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
 }
